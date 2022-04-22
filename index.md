@@ -1,8 +1,8 @@
 # SF Critical Mass
 
-Unofficial website for San Francisco Critical Mass.
+LAST FRIDAY EVERY MONTH, Embarcadero Plaza, meet 5:30 pm roll 6:30.
 
-This website is under construction.
+Unofficial website for San Francisco Critical Mass, under construction.
 
 ## See Also
 * [www.sfcriticalmass.org blog](https://www.sfcriticalmass.org/)
