@@ -1,0 +1,13 @@
+baseURL = 'https://sfcriticalmass.com/'
+languageCode = 'en-us'
+title = 'SF Critical Mass'
+theme = 'ananke'
+copyright = 'Contributors, MIT License'
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/CriticalMassSF"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/sfcriticalmass"

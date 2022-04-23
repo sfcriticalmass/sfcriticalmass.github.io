@@ -1,0 +1,8 @@
+header.cover.bg-top {
+    background-position: 50% 70%;
+}
+
+header.cover.bg-top h1.f-subheadline-l,
+nav a.f3 {
+    font-family: 'Bebas Neue', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

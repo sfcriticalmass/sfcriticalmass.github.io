@@ -1,0 +1,2 @@
+{{ $ymd := getenv "HUGO_NEXT_LAST_FRIDAY" | time.AsTime | time.Format "20060102" }}
+<a href='{{ printf "https://www.google.com/calendar/render?action=TEMPLATE&text=SF+Critical+Mass&dates=%[1]sT173000%%2B7/%[1]sT213000%%2B7&details=Added+via+https://sfcriticalmass.com&location=Embarcadero+Plaza,+Market+St+%%26,+Steuart+St,+San+Francisco,+CA+94105,+USA&sf=true&output=xml" $ymd }}' target="_blank">Add to Google Calendar</a>
