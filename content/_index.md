@@ -1,7 +1,7 @@
 ---
 title: 'San Francisco Critical Mass'
 
-description: 'Bike to reclaim the streets!'
+description: 'Ride to reclaim the streets!'
 # 1. To ensure Netlify triggers a build on our exampleSite instrance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
