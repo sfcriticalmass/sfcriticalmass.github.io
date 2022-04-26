@@ -13,9 +13,10 @@ website!) is unofficial.
 Current accounts:
 * Twitter: https://twitter.com/CriticalMassSF
 * Instagram: https://www.instagram.com/sfcriticalmass/
+* Facebook Page: https://www.facebook.com/CriticalMassSF
+* GitHub: https://github.com/sfcriticalmass/
 
 Old (original) accounts:
 * Twitter: https://twitter.com/sfcriticalmass
 * Facebook Page: https://www.facebook.com/sfcriticalmass
-* Blog: https://www.sfcriticalmass.org/
-
+* Original Blog: https://www.sfcriticalmass.org/
