@@ -1,0 +1,21 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" style="border: 1px solid red;">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;display=swap'); 
+    </style>
+  </defs>
+  <g>
+    <text x="50" y="100" font-size="120" fill="#222" dominant-baseline="middle" font-family="Bebas Neue">
+      SAN
+    </text>
+    <text x="50" y="200" font-size="120" fill="#222" dominant-baseline="middle" font-family="Bebas Neue">
+      FRANCISCO
+    </text>
+    <text x="50" y="300" font-size="120" fill="#222" dominant-baseline="middle" font-family="Bebas Neue">
+      CRITICAL
+    </text>
+    <text x="50" y="400" font-size="120" fill="#222" dominant-baseline="middle" font-family="Bebas Neue">
+      MASS
+    </text>
+  </g>
+</svg>

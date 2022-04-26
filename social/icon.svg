@@ -1,0 +1,19 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;display=swap'); 
+    </style>
+  </defs>
+  <mask id="mask-sf" maskContentUnits="objectBoundingBox">
+    <rect x="0" y="0" width="1" height="1" fill="white" />
+    <text x="0.5" y="0.5" font-size="1" dominant-baseline="middle" text-anchor="middle" font-family="Bebas Neue" textLength="0.96" lengthAdjust="spacingAndGlyphs">
+      SF
+    </text>
+  </mask>
+  <g>
+    <rect x="0" y="0" width="500" height="380" fill="#222" mask="url(#mask-sf)" />
+    <text x="50%" y="440" font-size="120" fill="#222" dominant-baseline="middle" text-anchor="middle" font-family="Bebas Neue" textLength="480" lengthAdjust="spacingAndGlyphs">
+      CRITICAL MASS
+    </text>
+  </g>
+</svg>
