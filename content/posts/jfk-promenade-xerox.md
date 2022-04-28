@@ -39,7 +39,7 @@ relevance and deservedly earned a reputation as a band of
 confrontation-seekers. The most recent dot org blog post directly about SF
 Critical Mass is from August 31st, 2013; pessimistically titled ["Lost Etiquette, Growing Incoherence"](https://www.sfcriticalmass.org/2013/08/31/lost-etiquette-growing-incoherence/).
 In the most recent June 5, 2020 post ["George Floyd Memorial Ride"](https://www.sfcriticalmass.org/2020/06/06/george-floyd-memorial-ride/),
-critical mass originator Chris Carlsson laments:
+critical mass originator [Chris Carlsson](https://twitter.com/Nowtopian) laments:
 
 > I haven’t been to Critical Mass in San Francisco for about a year, and only
 > went intermittently in the few years before that… it has long ago lost its
