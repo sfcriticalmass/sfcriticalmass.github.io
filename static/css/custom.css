@@ -1,3 +1,12 @@
+figure {
+    margin: 0;
+}
+figcaption {
+    font-size: 0.8em;
+    font-style: italic;
+    text-align: center;
+}
+
 header.cover {
     background-position: 50% 70%;
 }
@@ -10,3 +19,4 @@ nav a.f3 {
 header.cover h2 {
     line-height: 1.5;
 }
+
