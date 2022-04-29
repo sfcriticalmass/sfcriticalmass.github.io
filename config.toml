@@ -11,3 +11,7 @@ url = "https://twitter.com/CriticalMassSF"
 [[params.ananke_socials]]
 name = "instagram"
 url = "https://www.instagram.com/sfcriticalmass"
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/criticalmasssf"
