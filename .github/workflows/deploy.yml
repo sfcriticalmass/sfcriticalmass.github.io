@@ -6,7 +6,7 @@ on:
       - main  # Set a branch to deploy
   pull_request:
   schedule:
-    - cron: "51 23 * * 5" # Every Friday at 23:51, to keep next date updated.
+    - cron: "11 0 * * 6" # Every Saturday at 00:11, to keep next date updated.
   workflow_dispatch:
 
 jobs:
