@@ -20,3 +20,10 @@ header.cover h2 {
     line-height: 1.5;
 }
 
+/* for leaflet plugin */
+.leaflet-map {
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
