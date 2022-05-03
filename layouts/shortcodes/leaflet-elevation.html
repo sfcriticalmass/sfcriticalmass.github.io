@@ -1,0 +1,63 @@
+<div style="position: relative; display: flex; flex-direction: column; width: 100%; height: 1000px">
+    <div id='{{ md5 (.Get "gpx") }}' class="leaflet-map"></div>
+</div>
+<script>
+    (() => {
+        const opts = {
+            map: {
+                center: [37.75, -122.45],
+                zoom: 12,
+                fullscreenControl: false,
+                resizerControl: true,
+                preferCanvas: true,
+                rotate: true,
+                // bearing: 45,
+                rotateControl: {
+                    closeOnZeroBearing: true
+                },
+            },
+            elevationControl: {
+                url: '{{ .Get "gpx" }}',
+                options: {
+                    theme: "lightblue-theme",
+                    collapsed: false,
+                    autohide: false,
+                    autofitBounds: true,
+                    position: "bottomleft",
+                    detached: true,
+                    summary: "inline",
+                    imperial: true,
+
+                    altitude: true,
+                    speed: "disabled",
+                    slope: false,
+                    acceleration: false,
+
+                    // time: "summary",
+                    legend: true,
+                    followMarker: true,
+                    almostOver: true,
+                    // distanceMarkers: true,
+                    hotline: false,
+
+                    // added:
+                    closeBtn: false,
+                },
+            },
+            layersControl: {
+                options: {
+                    collapsed: false,
+                },
+            },
+        };
+
+        const map = L.map('{{ md5 (.Get "gpx") }}', opts.map);
+
+        const controlElevation = L.control.elevation(opts.elevationControl.options).addTo(map);
+        const controlLayer = L.control.layers(null, null, opts.layersControl.options);
+
+        controlElevation.on('eledata_loaded', ({ layer, name }) => controlLayer.addTo(map) && layer.eachLayer((trkseg) => trkseg.feature.geometry.type != "Point" && controlLayer.addOverlay(trkseg, trkseg.feature && trkseg.feature.properties && trkseg.feature.properties.name || name)));
+
+        controlElevation.load(opts.elevationControl.url);
+    })();
+</script>
