@@ -89,9 +89,9 @@ And I don't see people seeking confrontation trying to fight cars. Mostly just
 smiles and waves to and from curious onlookers.
 
 Of course no action takes place in a vacuum: reclaiming the streets on bike is
-no doubt political. But beyond that, on the ride I've met many friend fighting
+no doubt political. But beyond that, on the ride I've met many friends fighting
 for positive change in San Francisco, especially among the younger generation.
-It isn't as outwardly visible as the pampletting (though that seems to be
+It isn't as outwardly visible as the pamphletting (though that seems to be
 coming back!) but it's gotten me to participate in bike actions and the
 bureaucratic process.
 
