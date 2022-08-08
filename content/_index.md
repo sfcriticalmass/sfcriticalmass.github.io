@@ -10,6 +10,10 @@ featured_image: '/images/2021-11-26_seeing-spheres.jpg'
 ## Next SF Critical Mass:
 
 **{{% next-last-friday %}}** @ {{< embarcadero-plaza-link >}}  
-Meet 5:30 PM & Roll 6:30 PM
-
+Meet 5:30 PM & Roll 6:30 PM  
 {{< google-calendar-link >}}
+
+Follow SF Critical Mass on
+[Instagram](https://www.instagram.com/sfcriticalmass/) or
+[Twitter](https://twitter.com/CriticalMassSF)
+for updates and reminders!
