@@ -15,3 +15,7 @@ url = "https://www.instagram.com/sfcriticalmass"
 [[params.ananke_socials]]
 name = "facebook"
 url = "https://www.facebook.com/criticalmasssf"
+
+[[params.ananke_socials]]
+name = "mastodon"
+url = "https://sfba.social/@sfcriticalmass"

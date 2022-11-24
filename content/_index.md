@@ -14,6 +14,7 @@ Meet 5:30 PM & Roll 6:30 PM
 {{< google-calendar-link >}}
 
 Follow SF Critical Mass on
-[Instagram](https://www.instagram.com/sfcriticalmass/) or
-[Twitter](https://twitter.com/CriticalMassSF)
+[Instagram](https://www.instagram.com/sfcriticalmass/),
+[Twitter](https://twitter.com/CriticalMassSF),
+or {{< mastodon-link >}}
 for updates and reminders!
