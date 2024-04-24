@@ -1,0 +1,35 @@
+<svg width="500" height="560" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;display=swap');
+    </style>
+  </defs>
+  <mask id="mask-sf" maskContentUnits="objectBoundingBox">
+    <rect x="0" y="0" width="1" height="1" fill="white" />
+    <text x="0.5" y="0.5" font-size="1" dominant-baseline="middle" text-anchor="middle" font-family="Bebas Neue" textLength="0.96" lengthAdjust="spacingAndGlyphs">
+      SAN FRANCISCO
+    </text>
+  </mask>
+  <g>
+    <rect x="0" y="0" width="500" height="20" fill="#222" />
+    <text x="50%" y="65" font-size="60" fill="#222" dominant-baseline="middle" text-anchor="middle" font-family="Bebas Neue" textLength="480" lengthAdjust="spacingAndGlyphs">
+      This Friday:&nbsp;&nbsp;March 29th&nbsp;&nbsp;2024
+    </text>
+
+    <rect x="0" y="110" width="500" height="140" fill="#222" mask="url(#mask-sf)" />
+    <text x="50%" y="310" font-size="100" fill="#222" dominant-baseline="middle" text-anchor="middle" font-family="Bebas Neue" textLength="480" lengthAdjust="spacingAndGlyphs">
+      CRITICAL MASS
+    </text>
+
+    <rect x="0" y="370" width="500" height="20" fill="#222" />
+
+    <text x="50%" y="426" font-size="40" fill="#222" dominant-baseline="middle" text-anchor="middle" font-family="Bebas Neue" textLength="480" lengthAdjust="spacingAndGlyphs">
+      Embarcadero Plaza (end of Market)
+    </text>
+    <text x="50%" y="480" font-size="50" fill="#222" dominant-baseline="middle" text-anchor="middle" font-family="Bebas Neue" textLength="480" lengthAdjust="spacingAndGlyphs">
+      Meet at 6PM, Roll at 6:30
+    </text>
+
+    <rect x="0" y="520" width="500" height="20" fill="#222" />
+  </g>
+</svg>
