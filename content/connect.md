@@ -11,7 +11,8 @@ SF Critical Mass has no leaders, so every social media profile (and this
 website!) is unofficial.
 
 ## SF Critical Mass (Current)
-* Twitter: https://twitter.com/CriticalMassSF
+* Bluesky: https://sfcriticalmass.bsky.social
+* Mastodon: https://sfba.social/@sfcriticalmass
 * Instagram: https://www.instagram.com/sfcriticalmass
 * Facebook Page: https://www.facebook.com/CriticalMassSF
 * GitHub: https://github.com/sfcriticalmass
@@ -25,3 +26,4 @@ website!) is unofficial.
 * San Francisco Bike Party: https://sfbikeparty.wordpress.com
 * SafeStreetRebel: https://www.safestreetrebel.com
 * San Francisco Bicycle Coalition: https://sfbike.org
+

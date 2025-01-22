@@ -4,18 +4,27 @@ title = 'SF Critical Mass'
 theme = 'ananke'
 copyright = 'Contributors, MIT License'
 
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/CriticalMassSF"
+[params.ananke.social.follow]
+new_window_icon = false
+networks = [
+#    "twitter",
+    "bluesky",
+    "mastodon",
+    "instagram",
+    "facebook",
+]
 
-[[params.ananke_socials]]
-name = "instagram"
-url = "https://www.instagram.com/sfcriticalmass"
+[params.ananke.social.twitter]
+username = "CriticalMassSF"
 
-[[params.ananke_socials]]
-name = "facebook"
-url = "https://www.facebook.com/criticalmasssf"
+[params.ananke.social.instagram]
+username = "sfcriticalmass"
 
-[[params.ananke_socials]]
-name = "mastodon"
-url = "https://sfba.social/@sfcriticalmass"
+[params.ananke.social.facebook]
+username = "criticalmasssf"
+
+[params.ananke.social.mastodon]
+profilelink = "https://sfba.social/@sfcriticalmass"
+
+[params.ananke.social.bluesky]
+profilelink = "https://sfcriticalmass.bsky.social"

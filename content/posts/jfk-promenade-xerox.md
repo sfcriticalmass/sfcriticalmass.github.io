@@ -1,6 +1,6 @@
 ---
 title: "April JFK Promenade Route + Reflections"
-date: 2022-04-28T109:00:00-07:00
+date: 2022-04-28T09:00:00-07:00
 author: "Mingwei"
 draft: false
 ---
