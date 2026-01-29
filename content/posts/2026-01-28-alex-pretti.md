@@ -24,7 +24,8 @@ People are leading several other memorial rides in the Bay Area:
 
 * [*East Bay* - Saturday 10am, at Rockridge BART Plaza](https://www.instagram.com/p/DUC1kHfFCrd/)
 * [*Peninsula* - Saturday 11:30am, at Courthouse Square, Redood City](https://www.instagram.com/p/DUB6NTjEkgL/)
-* [*Santa Cruz mountains/San Jose* - Saturday 11am, at Mt. Umunhum](https://www.instagram.com/p/DUCTxmLkeeu/)
+* [*Santa Cruz mountains* - Saturday 11am, at Mt. Umunhum](https://www.instagram.com/p/DUCTxmLkeeu/)
+* [*San Jose* - Saturday 1pm, at Upshift Cycles San Jose](https://www.instagram.com/p/DUEuIoVEnLC/)
 
 {{< image src="/images/alex-pretti.jpg" caption="Alex Pretti, biking and hiking." alt="Two photos of Alex Pretti smiling, out in the woods. The left in bike gear behind a montain bike; the right kneeling in hiking gear and glasses." >}}
 
